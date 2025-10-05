@@ -72,4 +72,10 @@ Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya e
 
 BİTİR
 
+---
+**Kaynakça:**  
+- ChatGPT (LLM) desteğiyle oluşturulmuştur, 2025.  
+---
+---
+
 ![surprise](https://ngdblog.africa/wp-content/uploads/2023/01/Wow-gif.gif)
