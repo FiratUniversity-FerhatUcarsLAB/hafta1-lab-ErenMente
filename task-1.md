@@ -13,6 +13,7 @@ Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya e
 ### bu dosyayı miraç hocamın dediği gibi bir LLM olan chat gpt desteğiyle yaptım içerikteki hiçbir şey şahsımın değildir. 
 ### Saygılar...
 
+### Optimum bütçeli market alışverişi — PSEUDOCODE
 
 ### BAŞLA
 
